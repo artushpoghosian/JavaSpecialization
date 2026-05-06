@@ -2,8 +2,8 @@ First update line 1
 First update line 2
 Second update line 3
 Second update line 4
-Line 5
-Line 6
+folder2 changed line 5
+folder2 changed line 6
 Line 7
 Line 8
 Line 9
