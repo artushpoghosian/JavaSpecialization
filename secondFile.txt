@@ -1,5 +1,5 @@
-Line 1
-Line 2
+git_2 changed line 1
+git_2 changed line 2
 Line 3
 Line 4
 Line 5
